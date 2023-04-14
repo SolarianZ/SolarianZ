@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[My Gists](https://gist.github.com/SolarianZ)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SolarianZ)](https://github.com/SolarianZ) 
 
 <!--
