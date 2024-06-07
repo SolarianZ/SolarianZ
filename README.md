@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [My Gists](https://gist.github.com/SolarianZ)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SolarianZ)](https://github.com/SolarianZ) 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SolarianZ&show_icons=true)](https://github.com/SolarianZ) 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolarianZ)](https://github.com/SolarianZ)
