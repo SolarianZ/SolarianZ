@@ -4,10 +4,11 @@
 
 [https://gist.github.com/SolarianZ](https://gist.github.com/SolarianZ)
 
-
+<!-- repo is private
 ## C#
 
 [![C# Roslyn Analyzers](https://github-readme-stats.vercel.app/api/pin/?username=SolarianZ&repo=CSharpRoslynAnalyzers)](https://github.com/SolarianZ/CSharpRoslynAnalyzers) 
+-->
 
 ## Unity
 
