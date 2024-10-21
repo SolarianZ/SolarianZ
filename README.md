@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ZQY, a Unity developer who is passionate about writing useful gadgets.
+### Hi there 👋 I'm ZQY, a Unity developer who is passionate about writing useful tools.
 
 <!--
 **SolarianZ/SolarianZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My Gists](https://gist.github.com/SolarianZ) | [All Gadgets](./AllGadgets.md)
+[My Gists](https://gist.github.com/SolarianZ) | [All Tools](./AllGadgets.md)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SolarianZ&show_icons=true)](https://github.com/SolarianZ) 
 
